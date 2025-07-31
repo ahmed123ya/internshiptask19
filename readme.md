@@ -12,7 +12,7 @@ This is a Flask-based AI chatbot that performs real-time sentiment analysis usin
 ## 🧠 Features
 
 - Sentiment analysis using **TextBlob**
-- Preprocessed small dataset (CSV with 50 samples)
+- Preprocessed small dataset (CSV with 1000 samples)
 - Custom contextual replies based on sentiment (`positive`, `neutral`, `negative`)
 - Frontend chat UI with:
   - Typing animation ⌨️
